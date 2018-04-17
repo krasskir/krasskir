@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог одного аспиранта</title>
+    <link>http://krasskir.github.io/</link>
+    <description>Recent content on Блог одного аспиранта</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 15 Apr 2018 20:04:23 +0300</lastBuildDate>
+    
+	<atom:link href="http://krasskir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Первая задача</title>
+      <link>http://krasskir.github.io/post/first-post/</link>
+      <pubDate>Sun, 15 Apr 2018 20:04:23 +0300</pubDate>
+      
+      <guid>http://krasskir.github.io/post/first-post/</guid>
+      <description>Создать сайт на Hugo!&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
+      <link>http://krasskir.github.io/about/</link>
+      <pubDate>Mon, 05 Dec 2016 19:48:15 +0300</pubDate>
+      
+      <guid>http://krasskir.github.io/about/</guid>
+      <description>Красавин Кирилл Сергеевич
+Аспирант физического факультета ЯрГУ им. П.Г. Демидова</description>
+    </item>
+    
+  </channel>
+</rss>
